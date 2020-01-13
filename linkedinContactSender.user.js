@@ -3,7 +3,7 @@
 // @namespace    linkedinContactSender
 // @description  linkedin.com
 // @icon         https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca
-// @version      0.1.2
+// @version      0.1.3
 // @author       DEMENT0R
 // @downloadURL  https://github.com/DEMENT0R/linkedinContactSender/raw/master/linkedinContactSender.user.js
 // @updateURL    https://github.com/DEMENT0R/linkedinContactSender/raw/master/linkedinContactSender.user.js
